@@ -4,6 +4,7 @@ course_id: 22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall
 description: ''
 file: null
 file_location: /coursemedia/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2015/18cd9d31ddd2e15b16dcd4d680d45e16_MIT22_01F15_ps3_sol.pdf
+file_size: null
 file_type: application/pdf
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
