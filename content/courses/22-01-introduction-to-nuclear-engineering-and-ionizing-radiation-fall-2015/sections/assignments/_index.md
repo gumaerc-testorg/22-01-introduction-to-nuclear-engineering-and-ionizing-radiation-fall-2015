@@ -22,18 +22,18 @@ uid: a1852293-f1f8-f407-3ae2-7d99fd315864
 | [Problem Set 7: Neutrons, Shielding, and Reactor Criticality (PDF)]({{% getpage "courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2015/sections/assignments/MIT22_01F15_ps7" %}}) | [Problem Set 7 Solutions (PDF)]({{% getpage "courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2015/sections/assignments/MIT22_01F15_ps7_sol" %}}) |
 | [Problem Set 8: Radiation Dose and Environmental Sources (PDF)]({{% getpage "courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2015/sections/assignments/MIT22_01F15_ps8" %}}) | [Problem Set 8 Solutions (PDF)]({{% getpage "courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2015/sections/assignments/MIT22_01F15_ps8_sol" %}}) |
 | [Problem Set 9: Biological and Chemical Effects of Radiation (PDF)]({{% getpage "courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2015/sections/assignments/MIT22_01F15_ps9" %}}) | [Problem Set 9 Solutions (PDF)]({{% getpage "courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2015/sections/assignments/MIT22_01F15_ps9_sol" %}}) |
-| {{< br >}}{{< br >}}_Food Irradiation and Nuclear Debates_{{< br >}}{{< br >}}Analyze these two popular articles about food irradiation in the context of your textbook reading.{{< br >}}{{< br >}}1.  Mercola.com. "[Top 10 Reasons For Opposing Food Irradiation](http://www.mercola.com/article/irradiated/irradiation_dangers.htm)." For this article, look up the primary references used to try to prove that food irradiation is dangerous. Point out which arguments, if any, are logically or technically incorrect.{{< br >}}2.  "[What's Wrong with Food Irradiation](https://www.organicconsumers.org/old_articles/Irrad/irradfact.php)." Organic Consumers Association.{{< br >}}{{< br >}}For this article, point out all the scientific inaccuracies which invalidate its arguments. Use primary sources and / or the required readings from the course to make your point in a quantitative manner.{{< br >}}{{< br >}} | _no solution provided_ 
+| {{< br >}}{{< br >}}_Food Irradiation and Nuclear Debates_{{< br >}}{{< br >}}Analyze these two popular articles about food irradiation in the context of your textbook reading.{{< br >}}{{< br >}}1.  Mercola.com. "{{% resource_link "f03aa107-fbaf-4d6f-83ac-d7922d8312f8" "Top 10 Reasons For Opposing Food Irradiation" %}}." For this article, look up the primary references used to try to prove that food irradiation is dangerous. Point out which arguments, if any, are logically or technically incorrect.{{< br >}}2.  "{{% resource_link "2c3479ac-14ce-4b77-90c1-9cc1d24cdb80" "What's Wrong with Food Irradiation" %}}." Organic Consumers Association.{{< br >}}{{< br >}}For this article, point out all the scientific inaccuracies which invalidate its arguments. Use primary sources and / or the required readings from the course to make your point in a quantitative manner.{{< br >}}{{< br >}} | _no solution provided_ 
 
 Useful Links for Problem Sets
 -----------------------------
 
-[Old Version of KAERI Nuclide Table](http://atom.kaeri.re.kr:8080/)  
+{{% resource_link "3982047e-a8ca-4bbd-9e4c-02a4cbe3fb18" "Old Version of KAERI Nuclide Table" %}}  
 Use this for nuclear decay and mass data
 
-[NIST Tables of X-Ray Absorption Coefficients](http://www.nist.gov/pml/data/xraycoef/)
+{{% resource_link "46071407-d732-4754-9704-2bea4e44d0f6" "NIST Tables of X-Ray Absorption Coefficients" %}}
 
-[JANIS Nuclear Database](http://www.oecd-nea.org/janis/)  
+{{% resource_link "86e6e6ae-b641-488a-88ba-c39239b5a33b" "JANIS Nuclear Database" %}}  
 Use this for any cross section plots or tabulations
 
-[Gnumeric](http://www.gnumeric.org/)  
+{{% resource_link "41d3fce6-9b24-4d32-97c4-be6d873dd092" "Gnumeric" %}}  
 An open-source spreadsheet program
