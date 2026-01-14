@@ -31,7 +31,7 @@ Radiation is the central aspect which makes Nuclear Science and Engineering (NSE
 Textbook
 --------
 
-{{% resource_link "c1fe1f99-fe8e-49d1-95e7-d958d97b52ac" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Yip, Sidney. _Nuclear Radiation Interactions_. World Scientific Publishing Company, 2014. ISBN: 9789814368070.
+[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/9814368075/ref=nosim/mitopencourse-20) Yip, Sidney. _Nuclear Radiation Interactions_. World Scientific Publishing Company, 2014. ISBN: 9789814368070.
 
 Grading
 -------
@@ -53,7 +53,7 @@ Working together is OK! If you work in a team, you must:
 3.  Write / typeset your own problem sets (no xeroxing)
 4.  State who did which parts of the assignment. If we sense that someone is doing almost all the work, we will meet with you to prevent this sort of thing.
 
-In addition, all students **must** read the {{% resource_link "0afc9bc4-8209-4b81-a1cc-72c26b8540e7" "MIT guidelines on academic honesty and integrity" %}}.
+In addition, all students **must** read the [MIT guidelines on academic honesty and integrity](http://integrity.mit.edu/).
 
 ### Late Policy
 
@@ -77,7 +77,7 @@ Q = Quiz or exam
 | R1 | Demonstration: Sputter coater plasma |   |
 | L2 | Radiation-utilizing technologies |   |
 | L3 | Introduction to nuclear power production | Problem set 1 due |
-| R2 | Tour {{% resource_link "86444e21-bd14-45fd-a673-8513a8716e43" "MIT Alcator C-Mod fusion reactor" %}} |   |
+| R2 | Tour [MIT Alcator C-Mod fusion reactor](https://www.psfc.mit.edu/research/topics/alcator-c-mod-tokamak) |   |
 | {{< fullwidth-cell >}}**Part I: Energetics, Radioactive Decay, Half-life**{{< /fullwidth-cell >}} | &nbsp; | &nbsp; |
 | L4 | Nuclear mass and stability: Nuclear mass, nuclear structure, binding energy |   |
 | L5 | Nuclear mass and stability (cont.): Nuclear stability, mass parabolas |   |
@@ -92,7 +92,7 @@ Q = Quiz or exam
 | L10 | Statistics, precision, solid angle | Create banana ash for problem set 5 |
 | {{< fullwidth-cell >}}**Part II: Radiation Interactions, Shielding, Energy Loss through Matter**{{< /fullwidth-cell >}} | &nbsp; | &nbsp; |
 | L11 | Radiation interactions: Gamma (photon) scattering and absorption, mass attenuation |   |
-| L12 | Visit High Purity Germanium (HPGe) detector in the {{% resource_link "02157ac8-751d-4698-acf1-74a58ab1911d" "MIT Nuclear Reactor Lab" %}}, to measure potassium spectra of banana ashes (for Problem Set 5) | Problem set 4 due |
+| L12 | Visit High Purity Germanium (HPGe) detector in the [MIT Nuclear Reactor Lab](http://web.mit.edu/nrl/www/facilities/experimentalfacilities.htm), to measure potassium spectra of banana ashes (for Problem Set 5) | Problem set 4 due |
 | L13 | Radiation interactions: Ion-nuclear |   |
 | R6 | {{< br >}}{{< br >}}Quiz 1 review{{< br >}}{{< br >}}Myth-busting the Shroud of Turin{{< br >}}{{< br >}} |   |
 | L14 | Radiation Interactions: Bremsstrahlung (ion radiation losses) | Problem set 5 due |
